@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "productId": 1,
+    "productName": "Laptop Cover",
+    "unitPrice": 1200,
+    "quantity": 3,
+    "totalPrice": 3600,
+    "status": "APPROVED",
+    "createdAt": "2026-02-25T08:21:00.473Z",
+    "approvedByAdminId": 1,
+    "decisionAt": "2026-02-25T08:21:49.289Z"
+  }
+]

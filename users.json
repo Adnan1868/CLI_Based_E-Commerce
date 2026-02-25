@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "role": "user",
+    "name": "Adnan Jami",
+    "email": "adnan1868@gmail.com",
+    "password": "adnan@1234",
+    "address": "Dhaka,Bangladesh"
+  },
+  {
+    "id": 1,
+    "role": "admin",
+    "name": "Main Admin",
+    "email": "admin@gmail.com",
+    "password": "admin123",
+    "address": "Dhaka"
+  },
+  {
+    "id": 2,
+    "role": "user",
+    "name": "Sadman",
+    "email": "user2@gmail.com",
+    "password": "user@1234",
+    "address": "Dhaka"
+  },
+  {
+    "id": 3,
+    "role": "admin",
+    "name": "admin",
+    "email": "admin2@gmail.com",
+    "password": "admin@1234",
+    "address": "dhka"
+  }
+]
